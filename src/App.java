@@ -22,5 +22,6 @@ public class App {
             num = sc.nextInt();
         } while (numrandom != num);
             System.out.println("Has acertado el numero!");
+            System.out.println("Felicidades!!!");
     }
 }
